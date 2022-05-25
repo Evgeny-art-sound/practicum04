@@ -1,0 +1,15 @@
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/bin/Debug/net6.0/example03
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/bin/Debug/net6.0/example03.deps.json
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/bin/Debug/net6.0/example03.runtimeconfig.json
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/bin/Debug/net6.0/example03.dll
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/bin/Debug/net6.0/example03.pdb
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/example03.csproj.AssemblyReference.cache
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/example03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/example03.AssemblyInfoInputs.cache
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/example03.AssemblyInfo.cs
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/example03.csproj.CoreCompileInputs.cache
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/example03.dll
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/refint/example03.dll
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/example03.pdb
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/example03.genruntimeconfig.cache
+/Users/evgenijsaraborin/Documents/GB/lesson04/homevork/example03/obj/Debug/net6.0/ref/example03.dll
